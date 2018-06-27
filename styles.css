@@ -1,4 +1,6 @@
 body {
+    background: url(https://wallpapertag.com/wallpaper/full/3/5/8/59410-gorgerous-pixel-art-wallpaper-1920x1080.jpg);
+    font-family: 'Yatra One', cursive;
     text-align: center;
 }
 
@@ -16,6 +18,10 @@ h2:first-of-type {
     margin-top: 0.5em;
 }
 
+input[type=color]:hover {
+    cursor: pointer;
+}
+
 table,
 tr,
 td {
@@ -23,8 +29,10 @@ td {
 }
 
 table {
+    background-color: white;
     border-collapse: collapse;
     margin: 0 auto;
+
 }
 
 tr {
@@ -37,4 +45,29 @@ td {
 
 input[type=number] {
     width: 6em;
+}
+
+input[type=submit]:hover {
+    background-color: magenta;
+    border-radius: 5px;
+    cursor: pointer;
+    font-family: 'Rakkas', cursive;
+    font-size: 15px;
+}
+
+button {
+    margin: 10px;
+    padding: 10px;
+    border-radius: 10px;
+
+}
+
+button:hover {
+    background-color: magenta;
+    border: 5px 5px solid;
+    border-radius: 5px;
+    cursor: pointer;
+    font-family: 'Rakkas', cursive;
+    font-size: 15px;
+
 }
