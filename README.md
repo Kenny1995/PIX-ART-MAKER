@@ -19,4 +19,4 @@ the following will have to be followed.
 
 ## Link
 
-This is the link to my project in Github Pages https://kenny1995.github.io/PIX-ART-MAKER/
+This is the link to my project in Github Pages [https://kendevops.github.io/PIX-ART-MAKER/](Here)
